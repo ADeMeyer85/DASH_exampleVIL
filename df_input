@@ -1,1 +1,13 @@
-Scenario, Parameter, Value
+Scenario,Parameter,Value
+PBR_Central DSP, Allowed storage capacity, 2000
+PBR_Central DSP, Allowed vehicle type, truck
+PBR_Central DSP, Hub, Locatie 3
+PBR_Central DSP, Number of sites, 6
+PBR_Distributed DSP, Allowed storage capacity, 50
+PBR_Distributed DSP, Allowed vehicle type, water
+PBR_Distributed DSP, Hub, Locatie 1
+PBR_Distributed DSP, Number of sites, 1
+Vbag_Local DSP, Allowed storage capacity, 200
+Vbag_Local DSP, Allowed vehicle type, truck and water
+Vbag_Local DSP, Hub, Locatie 5
+Vbag_Local DSP, Number of sites, 6
