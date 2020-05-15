@@ -1,24 +1,24 @@
 Scenario,x,y,unit
-Locatie 2_ASIS, hub, 0,cost
-Locatie 2_ASIS, werf, 290000,cost
-Locatie 2_ASIS, logistiek, 110000,cost
-Locatie 2_ASIS, rechtstreek, 23000,CO2 emissions
-Locatie 2_ASIS, via hub, 0,CO2 emissions
-Locatie 2_ASIS, via water, 0,CO2 emissions
-Locatie 2_ASIS, rechtstreeks, 26000,mileage
-Locatie 2_ASIS, via hub, 0,mileage
-Locatie 2_ASIS, via water, 0,mileage
-Locatie 2_ASIS, rechtstreeks, 457,number of vehicles
-Locatie 2_ASIS, via hub, 0,number of vehicles
-Locatie 2_TOBE, hub, 47000,cost
-Locatie 2_TOBE, werf, 106000,cost
-Locatie 2_TOBE, logistiek, 145000,cost
-Locatie 2_TOBE, rechtstreeks,5000, CO2 emissions
-Locatie 2_TOBE, via hub, 45000, CO2 emissions
-Locatie 2_TOBE, via water, 0, CO2 emissions
-Locatie 2_TOBE, rechtstreeks, 4100,mileage
-Locatie 2_TOBE, via hub, 50000,mileage
-Locatie 2_TOBE, via water, 0,mileage
+Locatie 2_ASIS,hub,0,cost
+Locatie 2_ASIS,werf,290000,cost
+Locatie 2_ASIS,logistiek,110000,cost
+Locatie 2_ASIS,rechtstreek,23000,CO2 emissions
+Locatie 2_ASIS,via hub,0,CO2 emissions
+Locatie 2_ASIS,via water,0,CO2 emissions
+Locatie 2_ASIS,rechtstreeks,26000,mileage
+Locatie 2_ASIS,via hub,0,mileage
+Locatie 2_ASIS,via water,0,mileage
+Locatie 2_ASIS,rechtstreeks,457,number of vehicles
+Locatie 2_ASIS,via hub,0,number of vehicles
+Locatie 2_TOBE,hub,47000,cost
+Locatie 2_TOBE,werf,106000,cost
+Locatie 2_TOBE,logistiek,145000,cost
+Locatie 2_TOBE,rechtstreeks,5000,CO2 emissions
+Locatie 2_TOBE,via hub,45000,CO2 emissions
+Locatie 2_TOBE,via water,0,CO2 emissions
+Locatie 2_TOBE,rechtstreeks,4100,mileage
+Locatie 2_TOBE,via hub,50000,mileage
+Locatie 2_TOBE, via water,0,mileage
 Locatie 2_TOBE, rechtstreeks, 528,number of vehicles
 Locatie 2_TOBE, via hub, 197,number of vehicles
 Locatie 5_ASIS, hub, 0,cost
