@@ -1,13 +1,21 @@
 Scenario,Parameter,Value
-PBR_Central DSP, Total cost, 2000
-PBR_Central DSP, Total distance, 400
-PBR_Central DSP, Total CO2, 60
-PBR_Central DSP, Number of vehicles, 600
-PBR_Distributed DSP, Total cost, 50
-PBR_Distributed DSP, Total distance, 90
-PBR_Distributed DSP, Total CO2, 100
-PBR_Distributed DSP, Number of vehicles, 100
-Vbag_Local DSP, Total cost, 200
-Vbag_Local DSP, Total distance, 80
-Vbag_Local DSP, Total CO2, 1600
-Vbag_Local DSP, Number of vehicles, 1600
+Locatie 2_ASIS, Total cost, 403 k€
+Locatie 2_ASIS, Total CO2 emission, 23 ton CO2
+Locatie 2_ASIS, Total mileage, 26.000 km
+Locatie 2_ASIS, Total number of vehicles in city, 457
+Locatie 2_TOBE, Total cost, 290 k€
+Locatie 2_TOBE, Total CO2 emission, 48 ton CO2
+Locatie 2_TOBE, Total mileage, 53.000 km
+Locatie 2_TOBE, Total number of vehicles in city, 424
+Locatie 5_ASIS, Total cost, 400 k€
+Locatie 5_ASIS, Total CO2 emission, 23 ton CO2
+Locatie 5_ASIS, Total mileage, 26.000 km
+Locatie 5_ASIS, Total number of vehicles in city, 457
+Locatie 5_TOBE, Total cost, 230 k€
+Locatie 5_TOBE, Total CO2 emission, 21 ton CO2
+Locatie 5_TOBE, Total mileage, 23.000 km
+Locatie 5_TOBE, Total number of vehicles in city, 266
+Locatie 5_TOBE - water, Total cost, 240 k€
+Locatie 5_TOBE - water, Total CO2 emission, 20 ton CO2
+Locatie 5_TOBE - water, Total mileage, 20.000 km
+Locatie 5_TOBE - water, Total number of vehicles in city, 277
