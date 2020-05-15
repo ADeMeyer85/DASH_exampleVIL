@@ -1,21 +1,55 @@
 Scenario,x,y,unit
-Locatie 2_ASIS, 1, 2,cost
-Locatie 2_ASIS, 2, 4,CO2 emissions
-Locatie 2_ASIS, 3, 6,mileage
-Locatie 2_ASIS, 4, 8,number of vehicles
-Locatie 2_TOBE, 2, 5,cost
-Locatie 2_TOBE, 1, 9,CO2 emissions
-Locatie 2_TOBE, 4, 10,mileage
-Locatie 2_TOBE, 4, 10,number of vehicles
-Locatie 5_ASIS, 1, 2,cost
-Locatie 5_ASIS, 2, 4,CO2 emissions
-Locatie 5_ASIS, 3, 6,mileage
-Locatie 5_ASIS, 4, 8,number of vehicles
-Locatie 5_TOBE, 2, 5,cost
-Locatie 5_TOBE, 1, 9,CO2 emissions
-Locatie 5_TOBE, 4, 10,mileage
+Locatie 2_ASIS, hub, 0,cost
+Locatie 2_ASIS, werf, 290.000,cost
+Locatie 2_ASIS, logistiek, 110.000,cost
+Locatie 2_ASIS, rechtstreek, 23.000,CO2 emissions
+Locatie 2_ASIS, via hub, 0,CO2 emissions
+Locatie 2_ASIS, via water, 0,CO2 emissions
+Locatie 2_ASIS, rechtstreeks, 26.000,mileage
+Locatie 2_ASIS, via hub, 0,mileage
+Locatie 2_ASIS, via water, 0,mileage
+Locatie 2_ASIS, rechtstreeks, 457,number of vehicles
+Locatie 2_ASIS, via hub, 0,number of vehicles
+Locatie 2_TOBE, hub, 47.000,cost
+Locatie 2_TOBE, werf, 106.000,cost
+Locatie 2_TOBE, logistiek, 145.000,cost
+Locatie 2_TOBE, rechtstreeks,5.000, CO2 emissions
+Locatie 2_TOBE, via hub, 45.000, CO2 emissions
+Locatie 2_TOBE, via water, 0, CO2 emissions
+Locatie 2_TOBE, rechtstreeks, 4.100,mileage
+Locatie 2_TOBE, via hub, 50.000,mileage
+Locatie 2_TOBE, via water, 0,mileage
+Locatie 2_TOBE, rechtstreeks, 528,number of vehicles
+Locatie 2_TOBE, via hub, 197,number of vehicles
+Locatie 5_ASIS, hub, 0,cost
+Locatie 5_ASIS, werf, 290.000,cost
+Locatie 5_ASIS, logistiek, 110.000,cost
+Locatie 5_ASIS, rechtstreek, 23.000,CO2 emissions
+Locatie 5_ASIS, via hub, 0,CO2 emissions
+Locatie 5_ASIS, via water, 0,CO2 emissions
+Locatie 5_ASIS, rechtstreeks, 26.000,mileage
+Locatie 5_ASIS, via hub, 0,mileage
+Locatie 5_ASIS, via water, 0,mileage
+Locatie 5_ASIS, rechtstreeks, 30,number of vehicles
+Locatie 5_ASIS, via hub, 236,number of vehicles
+Locatie 5_TOBE, hub, 47.000,cost
+Locatie 5_TOBE, werf, 99.000,cost
+Locatie 5_TOBE, logistiek, 85.000,cost
+Locatie 5_TOBE, rechtstreeks, 637, CO2 emissions
+Locatie 5_TOBE, via hub, 20.000, CO2 emissions
+Locatie 5_TOBE, via water, 0, CO2 emissions
+Locatie 5_TOBE, rechtstreeks, 450,mileage
+Locatie 5_TOBE, via hub, 23.000,mileage
+Locatie 5_TOBE, via water, 0,mileage
 Locatie 5_TOBE, 4, 10,number of vehicles
-Locatie 5_TOBE - water, 2, 5,cost
-Locatie 5_TOBE - water, 1, 9,CO2 emissions
-Locatie 5_TOBE - water, 4, 10,mileage
-Locatie 5_TOBE - water, 4, 10,number of vehicles
+Locatie 5_TOBE - water, hub, 52.000,cost
+Locatie 5_TOBE - water, werf, 100.000,cost
+Locatie 5_TOBE - water, logistiek, 86.000,cost
+Locatie 5_TOBE - water, rechtstreeks, 813,CO2 emissions
+Locatie 5_TOBE - water, via hub, 19.000,CO2 emissions
+Locatie 5_TOBE - water, via water, 1000,CO2 emissions
+Locatie 5_TOBE - water, rechtstreeks, 1.200,mileage
+Locatie 5_TOBE - water, via hub, 18.000,mileage
+Locatie 5_TOBE - water, via water, 126,mileage
+Locatie 5_TOBE - water, rechtstreeks, 44,number of vehicles
+Locatie 5_TOBE - water, via hub, 233,number of vehicles
