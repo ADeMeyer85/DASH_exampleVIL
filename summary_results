@@ -35,9 +35,9 @@ Locatie 5_ASIS, via hub, 236,number of vehicles
 Locatie 5_TOBE, hub, 47000,cost
 Locatie 5_TOBE, werf, 99000,cost
 Locatie 5_TOBE, logistiek, 85000,cost
-Locatie 5_TOBE, rechtstreeks, 637, CO2 emissions
-Locatie 5_TOBE, via hub, 20000, CO2 emissions
-Locatie 5_TOBE, via water, 0, CO2 emissions
+Locatie 5_TOBE, rechtstreeks, 637,CO2 emissions
+Locatie 5_TOBE, via hub, 20000,CO2 emissions
+Locatie 5_TOBE, via water, 0,CO2 emissions
 Locatie 5_TOBE, rechtstreeks, 450,mileage
 Locatie 5_TOBE, via hub, 23000,mileage
 Locatie 5_TOBE, via water, 0,mileage
