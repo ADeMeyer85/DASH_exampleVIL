@@ -15,3 +15,7 @@ Locatie 5_TOBE, 2, 5,cost
 Locatie 5_TOBE, 1, 9,CO2
 Locatie 5_TOBE, 4, 10,mileage
 Locatie 5_TOBE, 4, 10,number of vehicles
+Locatie 5_TOBE - water, 2, 5,cost
+Locatie 5_TOBE - water, 1, 9,CO2
+Locatie 5_TOBE - water, 4, 10,mileage
+Locatie 5_TOBE - water, 4, 10,number of vehicles
