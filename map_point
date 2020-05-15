@@ -1,32 +1,32 @@
 iata,airport,city,state,country,lat,long,cnt,Scenario
-ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417,25129,PBR_Central DSP
-ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444,21925,PBR_Central DSP
-DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372,20662,PBR_Central DSP
-PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556,17290,PBR_Central DSP
-DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019,13781,PBR_Distributed DSP
-IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222,13223,PBR_Distributed DSP
-SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433,12016,PBR_Central DSP
-LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744,11797,Vbag_Local DSP
-MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778,10536,PBR_Distributed DSP
-CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583,10490,Vbag_Local DSP
-SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731,9898,PBR_Central DSP
-TPA,Tampa International ,Tampa,FL,USA,27.97547222,-82.53325,9182,PBR_Central DSP
-EWR,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056,8678,PBR_Distributed DSP
-LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333,8523,Vbag_Local DSP
-PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083,7965,PBR_Distributed DSP
-MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225,7690,Vbag_Local DSP
-SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131,7541,PBR_Distributed DSP
-LGA,LaGuardia,New York,NY,USA,40.77724306,-73.87260917,7392,PBR_Central DSP
-MDW,Chicago Midway,Chicago,IL,USA,41.7859825,-87.75242444,6979,PBR_Distributed DSP
-IAD,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972,6779,PBR_Distributed DSP
-SAN,San Diego International-Lindbergh ,San Diego,CA,USA,32.73355611,-117.1896567,6233,PBR_Central DSP
-STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972,6204,PBR_Distributed DSP
-DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583,6044,PBR_Central DSP
-JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556,5945,PBR_Distributed DSP
-MIA,Miami International,Miami,FL,USA,25.79325,-80.29055556,5907,PBR_Central DSP
-BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917,5627,Vbag_Local DSP
-SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669,4943,PBR_Distributed DSP
-BWI,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833,4749,PBR_Central DSP
-SNA,John Wayne /Orange Co,Santa Ana,CA,USA,33.67565861,-117.8682225,4616,PBR_Distributed DSP
+ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417,25129,Locatie 2_ASIS
+ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444,21925,Locatie 2_ASIS
+DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372,20662,Locatie 2_ASIS
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556,17290,Locatie 2_ASIS
+DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019,13781,Locatie 2_ASIS
+IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222,13223,Locatie 2_ASIS
+SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433,12016,Locatie 2_ASIS
+LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744,11797,Locatie 2_TOBE
+MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778,10536,Locatie 2_TOBE
+CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583,10490,Locatie 2_TOBE
+SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731,9898,Locatie 2_TOBE
+TPA,Tampa International ,Tampa,FL,USA,27.97547222,-82.53325,9182,Locatie 2_TOBE
+EWR,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056,8678,Locatie 2_TOBE
+LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333,8523,Locatie 5_TOBE
+PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083,7965,Locatie 5_TOBE
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225,7690,Locatie 5_TOBE
+SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131,7541,Locatie 5_TOBE
+LGA,LaGuardia,New York,NY,USA,40.77724306,-73.87260917,7392,Locatie 5_TOBE
+MDW,Chicago Midway,Chicago,IL,USA,41.7859825,-87.75242444,6979,Locatie 5_TOBE - water
+IAD,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972,6779,Locatie 5_TOBE - water
+SAN,San Diego International-Lindbergh ,San Diego,CA,USA,32.73355611,-117.1896567,6233,Locatie 5_TOBE - water
+STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972,6204,Locatie 5_TOBE - water
+DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583,6044,Locatie 5_TOBE - water
+JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556,5945,Locatie 5_TOBE - water
+MIA,Miami International,Miami,FL,USA,25.79325,-80.29055556,5907,Locatie 5_ASIS
+BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917,5627,Locatie 5_ASIS
+SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669,4943,Locatie 5_ASIS
+BWI,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833,4749,Locatie 5_ASIS
+SNA,John Wayne /Orange Co,Santa Ana,CA,USA,33.67565861,-117.8682225,4616,Locatie 5_ASIS
 
 
