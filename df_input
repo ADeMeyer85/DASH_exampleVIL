@@ -1,10 +1,10 @@
 Scenario,Parameter,Value
-Locatie 1_ASIS, Allowed vehicle type, truck
-Locatie 1_ASIS, Number of construction sites, 6
-Locatie 1_TOBE, Allowed vehicle type, truck
-Locatie 1_TOBE, Number of construction sites, 6
-Locatie 1_TOBE, Hub location, xDok
-Locatie 1_TOBE, Hub storage capacity, 400 LM
+Locatie 2_ASIS, Allowed vehicle type, truck
+Locatie 2_ASIS, Number of construction sites, 6
+Locatie 2_TOBE, Allowed vehicle type, truck
+Locatie 2_TOBE, Number of construction sites, 6
+Locatie 2_TOBE, Hub location, xDok
+Locatie 2_TOBE, Hub storage capacity, 400 LM
 Locatie 5_ASIS, Allowed vehicle type, truck
 Locatie 5_ASIS, Number of construction sites, 6
 Locatie 5_TOBE, Allowed vehicle type, truck
