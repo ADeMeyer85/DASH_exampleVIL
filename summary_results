@@ -1,13 +1,17 @@
 Scenario,x,y,unit
-PBR_Central DSP, 1, 2,cost
-PBR_Central DSP, 2, 4,CO2
-PBR_Central DSP, 3, 6,mileage
-PBR_Central DSP, 4, 8,number of vehicles
-PBR_Distributed DSP, 2, 5,cost
-PBR_Distributed DSP, 1, 9,CO2
-PBR_Distributed DSP, 4, 10,mileage
-PBR_Distributed DSP, 4, 10,number of vehicles
-Vbag_Local DSP, 1, 2,cost
-Vbag_Local DSP, 2, 8,CO2
-Vbag_Local DSP, 3, 16,mileage
-Vbag_Local DSP, 3, 16,number of vehicles
+Locatie 2_ASIS, 1, 2,cost
+Locatie 2_ASIS, 2, 4,CO2
+Locatie 2_ASIS, 3, 6,mileage
+Locatie 2_ASIS, 4, 8,number of vehicles
+Locatie 2_TOBE, 2, 5,cost
+Locatie 2_TOBE, 1, 9,CO2
+Locatie 2_TOBE, 4, 10,mileage
+Locatie 2_TOBE, 4, 10,number of vehicles
+Locatie 5_ASIS, 1, 2,cost
+Locatie 5_ASIS, 2, 4,CO2
+Locatie 5_ASIS, 3, 6,mileage
+Locatie 5_ASIS, 4, 8,number of vehicles
+Locatie 5_TOBE, 2, 5,cost
+Locatie 5_TOBE, 1, 9,CO2
+Locatie 5_TOBE, 4, 10,mileage
+Locatie 5_TOBE, 4, 10,number of vehicles
