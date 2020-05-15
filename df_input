@@ -1,13 +1,17 @@
 Scenario,Parameter,Value
-PBR_Central DSP, Allowed storage capacity, 2000
-PBR_Central DSP, Allowed vehicle type, truck
-PBR_Central DSP, Hub, Locatie 3
-PBR_Central DSP, Number of sites, 6
-PBR_Distributed DSP, Allowed storage capacity, 50
-PBR_Distributed DSP, Allowed vehicle type, water
-PBR_Distributed DSP, Hub, Locatie 1
-PBR_Distributed DSP, Number of sites, 1
-Vbag_Local DSP, Allowed storage capacity, 200
-Vbag_Local DSP, Allowed vehicle type, truck and water
-Vbag_Local DSP, Hub, Locatie 5
-Vbag_Local DSP, Number of sites, 6
+Locatie 1_ASIS, Allowed vehicle type, truck
+Locatie 1_ASIS, Number of construction sites, 6
+Locatie 1_TOBE, Allowed vehicle type, truck
+Locatie 1_TOBE, Number of construction sites, 6
+Locatie 1_TOBE, Hub location, xDok
+Locatie 1_TOBE, Hub storage capacity, 400 LM
+Locatie 5_ASIS, Allowed vehicle type, truck
+Locatie 5_ASIS, Number of construction sites, 6
+Locatie 5_TOBE, Allowed vehicle type, truck
+Locatie 5_TOBE, Number of construction sites, 6
+Locatie 5_TOBE, Hub location, yDok
+Locatie 5_TOBE, Hub storage capacity, 400
+Locatie 5_TOBE - water, Allowed vehicle type, truck & water
+Locatie 5_TOBE - water, Number of construction sites, 6
+Locatie 5_TOBE - water, Hub location, yDok
+Locatie 5_TOBE - water, Hub storage capacity, 400
